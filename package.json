@@ -20,13 +20,13 @@
     "test": "eslint lib"
   },
   "dependencies": {
-    "chalk": "^1.1.1",
-    "cwd": "^0.8.4",
-    "lodash": "^3.10.1",
+   "chalk": "^1.1.1",
+    "cwd": "^0.10.0",
+    "lodash": "^4.17.15",
     "ng-cli": "^0.7.0",
-    "resolve-dep": "^0.5.3",
+    "resolve-dep": "^0.6.0",
     "tildify": "^1.1.2",
-    "undertaker": "^0.12.1",
+    "undertaker": "^1.2.1",
     "undertaker-registry": "0.0.3"
   },
   "devDependencies": {
