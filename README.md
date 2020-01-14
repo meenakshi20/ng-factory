@@ -1,4 +1,4 @@
-# ng-factory
+# my-ng-factory
 
 An **upgradable** development workflow library built on top of Gulp and focused on AngularJS components and applications.
 
